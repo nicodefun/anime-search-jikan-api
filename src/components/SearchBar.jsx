@@ -23,7 +23,6 @@ export default function SearchBar({ handleSearch }) {
             placeholder="Search..."
             required
           />
-          <button>X</button>
         </form>
       </div>
     </section>
